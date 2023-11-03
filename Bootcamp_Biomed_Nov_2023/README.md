@@ -8,6 +8,7 @@
 5. Add the frontend, backend files and the training notebook in the folder
 6. git add .
 7. git commit -m "Add a descriptive commit message here"
+8. git pull origin student-branch
 8. git push origin student-branch
 
 
